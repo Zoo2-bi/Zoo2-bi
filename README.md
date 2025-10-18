@@ -1,6 +1,6 @@
 ## Hi there 👋
-
-<h3>Tech Skills</h3>
+<div align=center> 
+<h2>Tech Skills</h2>
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black">
@@ -12,8 +12,8 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white">
   <br/>
 </div>
-
-<h3>zoo2’s zoo</h3>
+<br><br>
+<h2>zoo2’s zoo</h2>
 <h5>기여우지</h5>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Zoo2-bi&utm_content=farm">
 <img
@@ -22,3 +22,4 @@
   height="300"
 />
 </a>
+</div>
