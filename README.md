@@ -1,5 +1,5 @@
 ## Hi there
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there👋&fontSize=40&fontColor=ffffff&color=ebc4a3)
+![header](https://capsule-render.vercel.app/api?type=rect&height=200&section=header&text=Hi%20there👋&fontSize=48&fontColor=ffffff&rotate=14&color=c9a289)
 
 <div align=center> 
 <h2>Tech Skills</h2>
