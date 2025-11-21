@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=%E2%9C%A8%20Welcome%20to%20Zoo2-bi's%20GitHub%20Space%20%E2%9C%A8&fontSize=40&fontColor=ffffff&color=ebc4a3" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=%E2%9C%A8%20Welcome%20to%20Zoo2-bi's%20GitHub%20E2%9C%A8&fontSize=40&fontColor=ffffff&color=ebc4a3" />
 </p>
 
 
