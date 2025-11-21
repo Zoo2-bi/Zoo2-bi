@@ -1,7 +1,6 @@
 ## Hi there
-![header](https://capsule-render.vercel.app/api?type=rect&height=200&section=header&text=Hi%20there👋&fontSize=48&fontColor=ffffff&rotate=14&color=c9a289)
-
 <div align=center> 
+  ![header](https://capsule-render.vercel.app/api?type=rect&height=200&section=header&text=Hi%20there👋&fontSize=48&fontColor=ffffff&rotate=14&color=c9a289)
 <h2>Tech Skills</h2>
 ## 💻 Skills & Tools
 <table width="100%">
