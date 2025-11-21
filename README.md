@@ -1,4 +1,4 @@
-## Hi there
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there👋&fontSize=40&fontColor=ffffff&color=ebc4a3" />
 </p>
