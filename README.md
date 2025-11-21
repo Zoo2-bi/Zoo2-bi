@@ -62,7 +62,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Environment</b></td>
+    <td align="center"><b>etc</b></td>
     <td>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/>
       <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square"/>
