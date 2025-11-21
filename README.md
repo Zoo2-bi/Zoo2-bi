@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 <div align=center> 
 <h2>Tech Skills</h2>
 ## 💻 Skills & Tools
