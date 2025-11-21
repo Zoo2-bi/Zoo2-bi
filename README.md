@@ -1,4 +1,6 @@
 ## Hi there
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there👋&fontSize=40&fontColor=ffffff&color=ebc4a3)
+
 <div align=center> 
 <h2>Tech Skills</h2>
 ## 💻 Skills & Tools
